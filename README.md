@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <!-- Currently working as QA Engineer, Having knowledge to create web automation using Cucumber Selenium Java, Robot Framework and Cypress. Create mobile(Android and iOS) automation using Cucumber Appium Java and Robot Framework. API Testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Jira and Azure DevOps.. -->
  
 
-## 📈Stats
 <p align="left">
 <a href="https://github.com/kukuhpradipto">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kukuhpradipto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
