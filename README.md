@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 🔗Connect
 <p>
-    <a href="https://www.linkedin.com/in/kukuhpradipto" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/kukuh-pradipto/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
      <a href="https://www.instagram.com/kukuhpradipto_/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
 </p>
 
